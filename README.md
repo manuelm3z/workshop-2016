@@ -1,5 +1,14 @@
 My Workshop
 
+wiredep sandbox
+---
+ 
+Tested wiredep a gulp plugin for inject dependencies on html.
+ 
+The plugin use de bower file to know what inject. Then in the html add comments with the next estructure
+> `<!-- bower:js -->`
+> `<!-- endbower -->`
+
 twemoji sandbox
 ---
  
