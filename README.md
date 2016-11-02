@@ -9,4 +9,4 @@ into Twitter emoji.
 The `parse()` method takes a string and converts it to HTML, with `<img>`
 tags for all the emoji images.
 
-To test reactjs packeges, use this https://github.com/ahfarmer/minimal-react-starter
+To test reactjs packages, use this https://github.com/ahfarmer/minimal-react-starter
